@@ -1,5 +1,9 @@
 # printf
 
+[Ir a Español](#espa%C3%B1ol) | [Go to English](#english)
+
+# Español
+
 **printf** es un proyecto personal donde implementé mi propia versión de la función estándar `printf` en C. El objetivo es entender en profundidad cómo funciona internamente esta función tan utilizada, gestionando el formateo y la impresión de cadenas, números y otros tipos de datos sin depender de la librería estándar de C.
 
 ---
@@ -80,6 +84,8 @@ ft_printf("Hola %s, el número es %d\n", "mundo", 42);
 ---
 
 # printf
+
+# English
 
 **printf** is a personal project where I implemented my own version of the standard C `printf` function. The goal is to deeply understand how this widely used function works internally, handling formatting and printing of strings, numbers, and other data types without relying on the C standard library.
 
